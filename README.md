@@ -1,10 +1,15 @@
 # Remede_Agency-Argent-Bank
+![Capture_d_écran_2023-01-27_152610-removebg-preview](https://user-images.githubusercontent.com/94462048/215110418-1039d6a7-7a07-4528-9cce-4f308938884c.png)
+![Capture_d_écran_2023-01-27_152626-removebg-preview](https://user-images.githubusercontent.com/94462048/215110422-45a02a7b-2259-41e2-b2aa-1c63038061b7.png)
 
 
 ## Scénario 
 
 Vous venez de commencer à travailler chez Remede Agency, une agence spécialisée dans le développement d'applications web.
 L'équipe est principalement composée de développeurs back-end et vient de commencer à recruter d'autres spécialistes front-end.
+
+![Capture_d_écran_2023-01-27_152626-removebg-preview](https://user-images.githubusercontent.com/94462048/215110469-0d1155bd-6228-40d0-a789-f873ccdf0549.png)
+![Capture_d_écran_2023-01-27_152610-removebg-preview](https://user-images.githubusercontent.com/94462048/215110471-761490c6-61a0-4216-aca9-5ee824412bef.png)
 
 ## Contraintes techniques
 
