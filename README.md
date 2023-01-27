@@ -8,10 +8,9 @@
 Vous venez de commencer à travailler chez Remede Agency, une agence spécialisée dans le développement d'applications web.
 L'équipe est principalement composée de développeurs back-end et vient de commencer à recruter d'autres spécialistes front-end
 
-![Capture_d_écran_2023-01-27_152626-removebg-preview](https://user-images.githubusercontent.com/94462048/215110619-df54de74-13bd-4652-83f2-2f899b2e6b9c.png)
-
-
 ## Contraintes techniques
+
+![Capture_d_écran_2023-01-27_152626-removebg-preview](https://user-images.githubusercontent.com/94462048/215110619-df54de74-13bd-4652-83f2-2f899b2e6b9c.png)
 
 #### Phase 1 “ Authentification des utilisateurs” :
 
